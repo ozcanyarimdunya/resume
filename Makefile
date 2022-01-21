@@ -11,5 +11,8 @@ install:
 	@pip install --upgrade pip
 	@pip install -r requirements.txt
 
+pdf:
+	@python pdf.py
+
 publish:
 	@mkdocs gh-deploy --clean --force

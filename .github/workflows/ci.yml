@@ -18,10 +18,9 @@ jobs:
         run: make install
       - name: Build mkdocs
         run: make build
-      - name: Convert resume to pdf with pandoc
-        uses: docker://pandoc/latex:2.9
-        with:
-          args: --output=./theme/assets/resume.pdf ./site/index.html
+      - name: Convert resume to pdf
+        run: apt-get install -y wkhtmltopdf
+        run: make pdf
       - name: Release
         uses: marvinpinto/action-automatic-releases@latest
         with:
