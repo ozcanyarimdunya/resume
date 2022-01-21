@@ -21,7 +21,7 @@ jobs:
         uses: fifsky/html-to-pdf-action@master
         with:
           htmlFile: ./site/index.html
-          outputFile: ./site/resume.pdf
+          outputFile: ./theme/assets/resume.pdf
           pdfOptions: '{"format": "A4", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
       - name: Publish to GitHub pages
-        run: ls -la && make publish
+        run: make publish
