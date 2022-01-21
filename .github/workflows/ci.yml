@@ -14,10 +14,9 @@ jobs:
         with:
           python-version: "3.10"
       - name: Install dependencies
-        run: pip install --upgrade pip
-        run: pip install -r requirements.txt
+        run: make install
       - name: Publish to GitHub pages
-        run: mkdocs gh-deploy --clean --force
+        run: make publish
       - name: Convert resume to pdf
         uses: docker://pandoc/latex:2.9
         with:
