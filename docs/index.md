@@ -1,6 +1,6 @@
 ---
 template: index.html 
-title: Resume
+title: Özcan Yarımdünya
 ---
 
 # Özcan Yarımdünya
@@ -70,8 +70,24 @@ Application/platform development
 
 ---
 
+### Personal Projects
+
+|     |                                                                                     |     |                                                               |
+|-----|-------------------------------------------------------------------------------------|-----|---------------------------------------------------------------|
+| 1.  | [python mini projeler](https://github.com/ozcanyarimdunya/python_mini_projeler)     |     | Simple projects I made with Python                            |
+| 2.  | [pyqt5 cpu](https://github.com/ozcanyarimdunya/pyqt5-cpu)                           |     | This is a simple app that show the cpu usage in the task bar. |
+| 3.  | [drf react nginx docker](https://github.com/ozcanyarimdunya/drf-react-nginx-docker) |     | Django rest and react with nginx in docker                    |
+| 4.  | [django boilerplate](https://github.com/ozcanyarimdunya/django-boilerplate)         |     | A Django boilerplate project                                  |
+| 5.  | [word document generator](https://github.com/ozcanyarimdunya/wdg)                   |     | Word document generator from template                         |
+| 6.  | [more ...](https://github.com/ozcanyarimdunya)                                      |     | For more checkout my GitHub account                           |
+
+
+---
+
 ### Hobbies
 
-- Football
-- Table Tennis
-- Boxing
+|                |
+|----------------|
+| - Football     |
+| - Table Tennis |
+| - Boxing       |
