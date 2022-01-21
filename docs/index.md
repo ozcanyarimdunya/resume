@@ -7,7 +7,7 @@ title: Özcan Yarımdünya
 
 ### I am a simple Python Developer
 
----
+<div class="break"></div>
 
 ### Contact Information
 
@@ -21,56 +21,55 @@ title: Özcan Yarımdünya
 | **Github**        | : [@ozcanyarimdunya](https://github.com/ozcanyarimdunya)          |
 | **LinkedIn**      | : [@ozcanyarimdunya](https://www.linkedin.com/in/ozcanyarimdunya) |
 
----
+<div class="break"></div>
 
 ### Experience
 
-09/2021 - present (_4 months_)
+#### Sahibinden.com - Big Data Admin & Python Developer
 
-**Sahibinden.com** - Big Data Admin & Python Developer
+09/2021 - present (4 months)
 
-Big data tools operations and development
+_Big data tools operations and development_
 
 `python` `sql` `bash` `bigdata`
 
-
 <br/>
 
-01/2021 - 09/2021 (_8 months_)
+#### Huawei Technologies - Software Developer
 
-**Huawei Technologies** - Software Developer
+01/2021 - 09/2021 (8 months)
 
-Huawei AppStore search optimization
+_Huawei AppStore search optimization_
 
 `python` `java` `sql` `bigdata`
 
 <br/>
 
-12/2019 - 01/2021 (_1 year 1 month_)
+#### GTech - Software Developer
 
-**GTech** - Software Developer
+12/2019 - 01/2021 (1 year 1 month)
 
-Application/platform development
+_Application/platform development_
 
 `python` `javascript` `bash` `bigdata`
 
 <br/>
 
-04/2017 - 12/2019 (_2 years 8 months_)
+#### Huawei Technologies - Software Developer
 
-**Huawei Technologies** - Software Developer
+04/2017 - 12/2019 (2 years 8 months)
 
-Application/platform development
+_Application/platform development_
 
 `python` `javascript` `vuejs` `bash`
 
----
+<div class="break"></div>
 
 ### Education
 
 2011 - 2016 // **Eskisehir Osmangazi University** // Computer Engineering
 
----
+<div class="break"></div>
 
 ### Personal Projects
 
@@ -84,7 +83,7 @@ Application/platform development
 | 6.  | [more ...](https://github.com/ozcanyarimdunya)                                      |     | For more checkout my GitHub account                           |
 
 
----
+<div class="break"></div>
 
 ### Hobbies
 
@@ -94,6 +93,6 @@ Application/platform development
 | - Table Tennis |
 | - Boxing       |
 
----
+<div class="break"></div>
 
 [ozcan.yarimdunya.com](https://ozcan.yarimdunya.com) @ 2022
