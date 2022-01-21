@@ -21,6 +21,10 @@ jobs:
         uses: docker://pandoc/latex:2.9
         with:
           args: --output=result.pdf site/index.html
-        run: pwd && ls -la
+      - name: Upload artifact
+        uses: actions/upload-artifact@master
+        with:
+          name: output
+          path: output
       - name: Publish to GitHub pages
         run: make publish
