@@ -5,5 +5,5 @@ site_description: Özcan Yarımdünya
 
 theme:
   name: null
-  custom_dir: "yarimdunya"
+  custom_dir: "theme"
   favicon: assets/favicon.ico
