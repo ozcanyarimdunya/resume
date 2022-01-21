@@ -16,8 +16,8 @@ jobs:
       - name: Install dependencies
         run: make install
       - name: Publish to GitHub pages
-        run: make publish && ls -la
+        run: make publish && pwd && ls -la
       - name: Convert resume to pdf
         uses: docker://pandoc/latex:2.9
         with:
-          args: --output=result.pdf index.html
+          args: --output=result.pdf site/index.html
