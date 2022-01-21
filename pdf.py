@@ -13,6 +13,6 @@ options = {
 
 pdfkit.from_file(
     input="./site/index.html",
-    output_path="./theme/assets/OzcanYarimdunya.pdf",
+    output_path="./theme/assets/ozcanyarimdunya.pdf",
     options=options,
 )

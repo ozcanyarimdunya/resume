@@ -16,7 +16,7 @@ title: Özcan Yarımdünya
 | **Email Address** | : ozcanyd@gmail.com                                               |     
 | **Phone**         | : +90 531 082 1028                                                |
 | **Nationality**   | : Republic of Turkey                                              |
-| **Address**       | : Umraniye / Istanbul / Turkey                                    |
+| **Address**       | : Ümraniye / Istanbul / Turkey                                    |
 | **Website**       | : [https://yarimdunya.com](https://yarimdunya.com)                |
 | **Github**        | : [@ozcanyarimdunya](https://github.com/ozcanyarimdunya)          |
 | **LinkedIn**      | : [@ozcanyarimdunya](https://www.linkedin.com/in/ozcanyarimdunya) |
@@ -73,14 +73,14 @@ _Application/platform development_
 
 ### Personal Projects
 
-|     |                                                                                     |     |                                                               |
-|-----|-------------------------------------------------------------------------------------|-----|---------------------------------------------------------------|
-| 1.  | [python mini projeler](https://github.com/ozcanyarimdunya/python_mini_projeler)     |     | Simple projects I made with Python                            |
-| 2.  | [word document generator](https://github.com/ozcanyarimdunya/wdg)                   |     | Word document generator from template                         |
-| 3.  | [django boilerplate](https://github.com/ozcanyarimdunya/django-boilerplate)         |     | A Django boilerplate project                                  |
-| 4.  | [drf react nginx docker](https://github.com/ozcanyarimdunya/drf-react-nginx-docker) |     | Django rest and react with nginx in docker                    |
-| 5.  | [pyqt5 cpu](https://github.com/ozcanyarimdunya/pyqt5-cpu)                           |     | This is a simple app that show the cpu usage in the task bar. |
-| 6.  | [more ...](https://github.com/ozcanyarimdunya)                                      |     | For more checkout my GitHub account                           |
+|     |                                                                                     |     |                                                     |
+|-----|-------------------------------------------------------------------------------------|-----|-----------------------------------------------------|
+| 1.  | [python mini projeler](https://github.com/ozcanyarimdunya/python_mini_projeler)     |     | Simple projects I made with Python                  |
+| 2.  | [word document generator](https://github.com/ozcanyarimdunya/wdg)                   |     | Word document generator from template               |
+| 3.  | [django boilerplate](https://github.com/ozcanyarimdunya/django-boilerplate)         |     | A Django boilerplate project                        |
+| 4.  | [drf react nginx docker](https://github.com/ozcanyarimdunya/drf-react-nginx-docker) |     | Django rest and react with nginx in docker          |
+| 5.  | [pyqt5 cpu](https://github.com/ozcanyarimdunya/pyqt5-cpu)                           |     | Simple app that show the cpu usage in the task bar. |
+| 6.  | [more ...](https://github.com/ozcanyarimdunya)                                      |     | For more checkout my GitHub account                 |
 
 
 <div class="break"></div>
@@ -95,4 +95,4 @@ _Application/platform development_
 
 <div class="break"></div>
 
-[ozcan.yarimdunya.com](https://ozcan.yarimdunya.com) @ 2022 | [Download as PDF](https://github.com/ozcanyarimdunya/resume/releases/latest/download/OzcanYarimdunya.pdf)
+[ozcan.yarimdunya.com](https://ozcan.yarimdunya.com) @ 2022 | [Download as PDF](https://github.com/ozcanyarimdunya/resume/releases/latest/download/ozcanyarimdunya.pdf)

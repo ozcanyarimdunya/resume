@@ -16,17 +16,17 @@ jobs:
           python-version: "3.10"
       - name: Install dependencies
         run: make install
-      - name: Build mkdocs
+      - name: Build site
         run: make build
       - name: Convert resume to pdf
         run: sudo apt-get install -y wkhtmltopdf && make pdf
-      - name: Release
+      - name: Release resume
         uses: marvinpinto/action-automatic-releases@latest
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           automatic_release_tag: latest
           prerelease: false
           title: Resume v${{ github.run_number }}
-          files: ./theme/assets/OzcanYarimdunya.pdf
-      - name: Publish to GitHub pages
+          files: ./theme/assets/ozcanyarimdunya.pdf
+      - name: Publish site to the GitHub pages
         run: make publish
