@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>{{ page.title }}</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="author" content="{{ config.site_author }}">
+  <link rel="shortcut icon" href="{{ config.theme.favicon|url }}">
+  <style>
+    body {
+      padding: 0 25em;
+    }
+
+    code {
+      background: #e1e1e1;
+      padding: 0.2rem 0.4rem;
+      border-radius: 0.25rem;
+    }
+
+    @media screen and (max-width: 800px) {
+      body {
+        padding: 0 1em;
+      }
+    }
+
+    @media screen and (min-width: 801px) and (max-width: 1200px) {
+      body {
+        padding: 0 5em;
+      }
+    }
+
+    @media screen and (min-width: 1201px) and (max-width: 1400px) {
+      body {
+        padding: 0 15em;
+      }
+    }
+  </style>
+</head>
+<body>
+{{page.content}}
+</body>
+</html>
