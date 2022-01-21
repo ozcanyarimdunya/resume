@@ -8,7 +8,8 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout repo
+        uses: actions/checkout@v2
       - name: Set up Python 3.10
         uses: actions/setup-python@v2
         with:
@@ -20,6 +21,12 @@ jobs:
       - name: Convert resume to pdf with pandoc
         uses: docker://pandoc/latex:2.9
         with:
-          args: --output=./theme/assets/resume-pandoc.pdf site/index.html
+          args: --output=./theme/assets/resume.pdf ./site/index.html
+      - name: Release
+        uses: marvinpinto/action-automatic-releases@latest
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          prerelease: false
+          files: ./theme/assets/resume.pdf
       - name: Publish to GitHub pages
         run: make publish
