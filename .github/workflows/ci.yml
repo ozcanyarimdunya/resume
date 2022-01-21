@@ -27,6 +27,6 @@ jobs:
           automatic_release_tag: latest
           prerelease: false
           title: Resume v${{ github.run_number }}
-          files: ./theme/assets/resume.pdf
+          files: ./theme/assets/OzcanYarimdunya.pdf
       - name: Publish to GitHub pages
         run: make publish
