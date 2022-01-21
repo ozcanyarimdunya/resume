@@ -17,7 +17,7 @@ title: Özcan Yarımdünya
 | **Phone**         | : +90 531 082 1028                                                |
 | **Nationality**   | : Republic of Turkey                                              |
 | **Address**       | : Ümraniye / Istanbul / Turkey                                    |
-| **Website**       | : [https://yarimdunya.com](https://yarimdunya.com)                |
+| **Website**       | : [yarimdunya.com](https://yarimdunya.com)                |
 | **Github**        | : [@ozcanyarimdunya](https://github.com/ozcanyarimdunya)          |
 | **LinkedIn**      | : [@ozcanyarimdunya](https://www.linkedin.com/in/ozcanyarimdunya) |
 
