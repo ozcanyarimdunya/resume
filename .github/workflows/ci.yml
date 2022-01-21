@@ -28,7 +28,7 @@ jobs:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           automatic_release_tag: latest
           prerelease: false
-          title: Resume release
+          title: Resume v${{ github.run_number }}
           files: ./theme/assets/resume.pdf
       - name: Publish to GitHub pages
         run: make publish
