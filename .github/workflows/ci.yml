@@ -22,6 +22,6 @@ jobs:
         with:
           htmlFile: ./site/index.html
           outputFile: ./theme/assets/resume.pdf
-          pdfOptions: '{"format": "A4", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
+          pdfOptions: '{"format": "A4", "margin": {"top": "1mm", "left": "1mm", "right": "1mm", "bottom": "1mm"}}'
       - name: Publish to GitHub pages
         run: make publish
