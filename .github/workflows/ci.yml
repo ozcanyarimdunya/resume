@@ -17,11 +17,9 @@ jobs:
         run: make install
       - name: Build mkdocs
         run: make build
-      - name: Convert resume to pdf
-        uses: fifsky/html-to-pdf-action@master
+      - name: Convert resume to pdf with pandoc
+        uses: docker://pandoc/latex:2.9
         with:
-          htmlFile: ./site/index.html
-          outputFile: ./theme/assets/resume.pdf
-          pdfOptions: '{"format": "A4", "margin": {"top": "1mm", "left": "1mm", "right": "1mm", "bottom": "1mm"}}'
+          args: --output=./theme/assets/resume-pandoc.pdf site/index.html
       - name: Publish to GitHub pages
         run: make publish
