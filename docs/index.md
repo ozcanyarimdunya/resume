@@ -11,13 +11,15 @@ title: Özcan Yarımdünya
 
 ### Contact Information
 
-|                     |                                                                   |     |     |                 |                                                          |
-|:--------------------|:------------------------------------------------------------------|-----|-----|:----------------|:---------------------------------------------------------|
-| **Email Address**   | : ozcanyd@gmail                                                   |     |     | **Phone**       | : +90 531 082 1028                                       |
-| **Birthdate**       | : 26/05/1994                                                      |     |     | **Website**     | : [https://yarimdunya.com](https://yarimdunya.com)       |
-| **Gender**          | : Male                                                            |     |     | **Nationality** | : Republic of Turkey                                     |
-| **Driving Licence** | : B                                                               |     |     | **Address**     | : Umraniye / Istanbul / Turkey                           |
-| **LinkedIn**        | : [@ozcanyarimdunya](https://www.linkedin.com/in/ozcanyarimdunya) |     |     | **Github**      | : [@ozcanyarimdunya](https://github.com/ozcanyarimdunya) |
+|                   |                                                                   |
+|:------------------|:------------------------------------------------------------------|
+| **Email Address** | : ozcanyd@gmail.com                                               |     
+| **Phone**         | : +90 531 082 1028                                                |
+| **Nationality**   | : Republic of Turkey                                              |
+| **Address**       | : Umraniye / Istanbul / Turkey                                    |
+| **Website**       | : [https://yarimdunya.com](https://yarimdunya.com)                |
+| **Github**        | : [@ozcanyarimdunya](https://github.com/ozcanyarimdunya)          |
+| **LinkedIn**      | : [@ozcanyarimdunya](https://www.linkedin.com/in/ozcanyarimdunya) |
 
 ---
 
@@ -66,7 +68,7 @@ Application/platform development
 
 ### Education
 
-[2011 - 2016] **Eskisehir Osmangazi University** - _Computer Engineering_
+2011 - 2016 // **Eskisehir Osmangazi University** // Computer Engineering
 
 ---
 
@@ -75,10 +77,10 @@ Application/platform development
 |     |                                                                                     |     |                                                               |
 |-----|-------------------------------------------------------------------------------------|-----|---------------------------------------------------------------|
 | 1.  | [python mini projeler](https://github.com/ozcanyarimdunya/python_mini_projeler)     |     | Simple projects I made with Python                            |
-| 2.  | [pyqt5 cpu](https://github.com/ozcanyarimdunya/pyqt5-cpu)                           |     | This is a simple app that show the cpu usage in the task bar. |
-| 3.  | [drf react nginx docker](https://github.com/ozcanyarimdunya/drf-react-nginx-docker) |     | Django rest and react with nginx in docker                    |
-| 4.  | [django boilerplate](https://github.com/ozcanyarimdunya/django-boilerplate)         |     | A Django boilerplate project                                  |
-| 5.  | [word document generator](https://github.com/ozcanyarimdunya/wdg)                   |     | Word document generator from template                         |
+| 2.  | [word document generator](https://github.com/ozcanyarimdunya/wdg)                   |     | Word document generator from template                         |
+| 3.  | [django boilerplate](https://github.com/ozcanyarimdunya/django-boilerplate)         |     | A Django boilerplate project                                  |
+| 4.  | [drf react nginx docker](https://github.com/ozcanyarimdunya/drf-react-nginx-docker) |     | Django rest and react with nginx in docker                    |
+| 5.  | [pyqt5 cpu](https://github.com/ozcanyarimdunya/pyqt5-cpu)                           |     | This is a simple app that show the cpu usage in the task bar. |
 | 6.  | [more ...](https://github.com/ozcanyarimdunya)                                      |     | For more checkout my GitHub account                           |
 
 
@@ -91,3 +93,7 @@ Application/platform development
 | - Football     |
 | - Table Tennis |
 | - Boxing       |
+
+---
+
+[ozcan.yarimdunya.com](https://ozcan.yarimdunya.com) @ 2022
