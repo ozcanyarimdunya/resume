@@ -19,7 +19,7 @@ jobs:
       - name: Build mkdocs
         run: make build
       - name: Convert resume to pdf
-        run: apt-get install -y wkhtmltopdf && make pdf
+        run: sudo apt-get install -y wkhtmltopdf && make pdf
       - name: Release
         uses: marvinpinto/action-automatic-releases@latest
         with:
