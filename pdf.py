@@ -1,3 +1,6 @@
+import re
+from datetime import datetime
+
 import pdfkit
 
 options = {
@@ -11,8 +14,14 @@ options = {
     "page-size": "Letter",
 }
 
-pdfkit.from_file(
-    input="./site/index.html",
+file = "./site/index.html"
+with open(file, "r", encoding="utf-8") as fp:
+    content = fp.read()
+    replace = "| {}".format(datetime.now().strftime("%c"))
+    content = re.sub(r"\|\s+.*Download as PDF</a>", replace, content)
+
+pdfkit.from_string(
+    input=content,
     output_path="./theme/assets/ozcanyarimdunya.pdf",
     options=options,
 )
