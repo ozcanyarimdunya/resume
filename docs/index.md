@@ -79,7 +79,7 @@ _Application/platform development_
 | 2.  | [word document generator](https://github.com/ozcanyarimdunya/wdg)                   |     | Word document generator from template               |
 | 3.  | [django boilerplate](https://github.com/ozcanyarimdunya/django-boilerplate)         |     | A Django boilerplate project                        |
 | 4.  | [drf react nginx docker](https://github.com/ozcanyarimdunya/drf-react-nginx-docker) |     | Django rest and react with nginx in docker          |
-| 5.  | [pyqt5 cpu](https://github.com/ozcanyarimdunya/pyqt5-cpu)                           |     | Simple app that show the cpu usage in the task bar. |
+| 5.  | [pyqt cpu](https://github.com/ozcanyarimdunya/pyqt-cpu)                             |     | Simple app that show the cpu usage in the task bar. |
 | 6.  | [more ...](https://github.com/ozcanyarimdunya)                                      |     | For more checkout my GitHub account                 |
 
 
