@@ -85,14 +85,4 @@ _Application/platform development_
 
 <div class="break"></div>
 
-### Hobbies
-
-|                |
-|----------------|
-| - Football     |
-| - Table Tennis |
-| - Boxing       |
-
-<div class="break"></div>
-
 [ozcan.yarimdunya.com](https://ozcan.yarimdunya.com) @ 2022 | [Download as PDF](https://github.com/ozcanyarimdunya/resume/releases/latest/download/ozcanyarimdunya.pdf)
