@@ -82,7 +82,6 @@ _Application/platform development_
 | 5.  | [pyqt cpu](https://github.com/ozcanyarimdunya/pyqt-cpu)                             | : Simple app that show the cpu usage in the task bar. |
 | 6.  | [more ...](https://github.com/ozcanyarimdunya)                                      | : For more checkout my GitHub account                 |
 
-
 <div class="break"></div>
 
 [ozcan.yarimdunya.com](https://ozcan.yarimdunya.com) @ 2022 | [Download as PDF](https://github.com/ozcanyarimdunya/resume/releases/latest/download/ozcanyarimdunya.pdf)
