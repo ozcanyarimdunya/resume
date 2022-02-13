@@ -15,6 +15,10 @@
       font-size: 1.15em;
     }
 
+    a {
+      text-decoration: none;
+    }
+
     code {
       background: #e5e5e5;
       padding: 0.2rem 0.4rem;
@@ -26,6 +30,27 @@
       border: 1px solid #e1e1e1;
       margin: 2rem 0;
       width: 75%;
+    }
+
+    .btn-container {
+      position: sticky;
+      top: 2vh;
+      text-align: end;
+    }
+
+    .btn-download {
+      color: #24292F;
+      background-color: #EBF0F8;
+      padding: 0.25rem 0.5rem;
+      border: 0.1rem solid #24292F;
+      border-radius: 0.2rem;
+    }
+    .btn-download svg{
+      vertical-align: -0.1rem;
+    }
+
+    .hidden {
+      display: none;
     }
 
     @media screen and (max-width: 800px) {
@@ -54,6 +79,18 @@
   </style>
 </head>
 <body>
+<!--download-->
+<div class="btn-container">
+  <a class="btn-download" href="https://github.com/ozcanyarimdunya/resume/releases/latest/download/ozcanyarimdunya.pdf">
+    <svg viewBox="0 0 16 16" width="16" height="16">
+      <path fill-rule="evenodd"
+            d="M7.47 10.78a.75.75 0 001.06 0l3.75-3.75a.75.75 0 00-1.06-1.06L8.75 8.44V1.75a.75.75 0 00-1.5 0v6.69L4.78 5.97a.75.75 0 00-1.06 1.06l3.75 3.75zM3.75 13a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5z">
+      </path>
+    </svg>
+    Download
+  </a>
+</div>
+<!--/download-->
 {{page.content}}
 </body>
 </html>

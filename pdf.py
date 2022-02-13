@@ -1,5 +1,4 @@
 import re
-from datetime import datetime
 
 import pdfkit
 
@@ -14,11 +13,8 @@ options = {
     "page-size": "Letter",
 }
 
-file = "./site/index.html"
-with open(file, "r", encoding="utf-8") as fp:
-    content = fp.read()
-    replace = "| {}".format(datetime.now().strftime("%c"))
-    content = re.sub(r"\|\s+.*Download as PDF</a>", replace, content)
+with open("./site/index.html", mode="r", encoding="utf-8") as fp:
+    content = re.sub("btn-container", "hidden", fp.read())
 
 pdfkit.from_string(
     input=content,
