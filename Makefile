@@ -16,6 +16,8 @@ serve:
 	@mkdocs serve
 
 pdf:
+	@sudo apt-get update
+	@sudo apt-get install -y wkhtmltopdf
 	@python pdf.py
 
 publish:

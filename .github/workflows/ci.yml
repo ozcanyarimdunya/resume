@@ -31,7 +31,7 @@ jobs:
       run: make build
 
     - name: Convert resume to pdf
-      run: sudo apt-get install -y wkhtmltopdf && make pdf
+      run: make pdf
 
     - name: Release resume
       uses: marvinpinto/action-automatic-releases@latest
