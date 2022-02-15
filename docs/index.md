@@ -14,7 +14,7 @@ title: Özcan Yarımdünya
 |                   |                                                                   |
 |:------------------|:------------------------------------------------------------------|
 | **Email Address** | : ozcanyd@gmail.com                                               |     
-| **Phone**         | : +90 531 082 1028                                                |
+| **Phone**         | : +90 531 082 10 28                                               |
 | **Nationality**   | : Republic of Turkey                                              |
 | **Address**       | : Ümraniye / Istanbul / Turkey                                    |
 | **Website**       | : [yarimdunya.com](https://yarimdunya.com)                        |
