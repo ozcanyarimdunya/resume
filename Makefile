@@ -3,22 +3,21 @@ help:
 	@echo "build  : Build mkdocs"
 	@echo "install: Install dependencies"
 	@echo "serve  : Run project locally"
+	@echo "resume : Create resume in pdf format"
 	@echo "publish: Deploy to GitHub pages"
 
 build:
-	@mkdocs build
+	@poetry run mkdocs build
 
 install:
-	@pip install --upgrade pip
-	@pip install -r requirements.txt
+	@pip install poetry
+	@poetry install
 
 serve:
-	@mkdocs serve
+	@poetry run mkdocs serve
 
-pdf:
-	@sudo apt-get update
-	@sudo apt-get install -y wkhtmltopdf
-	@python pdf.py
+resume:
+	@poetry run python resume.py
 
 publish:
-	@mkdocs gh-deploy --clean --force
+	@poetry run mkdocs gh-deploy --clean --force

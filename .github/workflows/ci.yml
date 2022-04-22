@@ -16,13 +16,13 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: "3.10"
+        python-version: "3.9"
 
     - name: Cache dependencies
       uses: actions/cache@v2
       with:
-        path: ${{ env.pythonLocation }}
-        key: ${{ env.pythonLocation }}-${{ hashFiles('requirements.txt') }}
+        path: ~/.cache/pypoetry
+        key: ${{ runner.os }}-${{ hashFiles('poetry.lock') }}
 
     - name: Install dependencies
       run: make install
@@ -30,8 +30,11 @@ jobs:
     - name: Build site
       run: make build
 
-    - name: Convert resume to pdf
-      run: make pdf
+    - name: Install pdf requirements
+      run: sudo apt-get update && sudo apt-get install -y wkhtmltopdf
+
+    - name: Create resume in pdf format
+      run: make resume
 
     - name: Release resume
       uses: marvinpinto/action-automatic-releases@latest

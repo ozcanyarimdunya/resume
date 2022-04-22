@@ -18,6 +18,6 @@ with open("./site/index.html", mode="r", encoding="utf-8") as fp:
 
 pdfkit.from_string(
     input=content,
-    output_path="./theme/assets/ozcanyarimdunya.pdf",
+    output_path="docs/theme/assets/ozcanyarimdunya.pdf",
     options=options,
 )

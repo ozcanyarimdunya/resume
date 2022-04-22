@@ -1,9 +1,9 @@
 site_name: Özcan Yarımdünya
-site_url: https://yarimdunya.com
+site_url: https://ozcan.yarimdunya.com
 site_author: Özcan Yarımdünya
 site_description: Özcan Yarımdünya
 
 theme:
   name: null
-  custom_dir: "theme"
+  custom_dir: "docs/theme"
   favicon: assets/favicon.ico
