@@ -43,7 +43,7 @@ jobs:
         automatic_release_tag: latest
         prerelease: false
         title: Release v${{ github.run_number }}
-        files: ./theme/assets/ozcanyarimdunya.pdf
+        files: ./docs/theme/assets/ozcanyarimdunya.pdf
 
     - name: Publish site to the GitHub pages
       run: make publish
