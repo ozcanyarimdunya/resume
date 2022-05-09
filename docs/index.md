@@ -27,7 +27,7 @@ title: Özcan Yarımdünya
 
 #### Sahibinden.com - Big Data Admin & Python Developer
 
-09/2021 - present (6 months)
+09/2021 - present (8 months)
 
 _Big data tools operations and development_
 
@@ -77,7 +77,7 @@ _Application/platform development_
 |:----|:------------------------------------------------------------------------------------|:------------------------------------------------------|
 | 1.  | [python mini projeler](https://github.com/ozcanyarimdunya/python_mini_projeler)     | : Simple projects I made with Python                  |
 | 2.  | [word document generator](https://github.com/ozcanyarimdunya/wdg)                   | : Word document generator from template               |
-| 3.  | [django boilerplate](https://github.com/ozcanyarimdunya/django-boilerplate)         | : A Django boilerplate project                        |
+| 3.  | [commander](https://github.com/ozcanyarimdunya/commander)                           | : A Django boilerplate project                        |
 | 4.  | [drf react nginx docker](https://github.com/ozcanyarimdunya/drf-react-nginx-docker) | : Django rest and react with nginx in docker          |
 | 5.  | [pyqt cpu](https://github.com/ozcanyarimdunya/pyqt-cpu)                             | : Simple app that show the cpu usage in the task bar. |
 | 6.  | [more ...](https://github.com/ozcanyarimdunya)                                      | : For more checkout my GitHub account                 |
