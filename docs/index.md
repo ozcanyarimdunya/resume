@@ -1,29 +1,25 @@
 ---
-template: index.html 
+template: index.html
 title: Özcan Yarımdünya
 ---
 
 # Özcan Yarımdünya
 
-### I am a simple Python Developer
+### I am a simple Python Developer.
 
-<div class="break"></div>
-
-### Contact Information
+### <ins>Contact Information</ins>
 
 |                   |                                                                   |
 |:------------------|:------------------------------------------------------------------|
 | **Email Address** | : ozcanyd@gmail.com                                               |     
 | **Phone**         | : +90 531 082 10 28                                               |
 | **Nationality**   | : Republic of Turkey                                              |
-| **Address**       | : Ümraniye / Istanbul / Turkey                                    |
+| **Address**       | : Istanbul / Turkey                                               |
 | **Website**       | : [yarimdunya.com](https://yarimdunya.com)                        |
 | **Github**        | : [@ozcanyarimdunya](https://github.com/ozcanyarimdunya)          |
 | **LinkedIn**      | : [@ozcanyarimdunya](https://www.linkedin.com/in/ozcanyarimdunya) |
 
-<div class="break"></div>
-
-### Experience
+### <ins>Experiences</ins>
 
 #### Sahibinden.com - Big Data Admin & Python Developer
 
@@ -63,25 +59,19 @@ _Application/platform development_
 
 `python` `javascript` `vuejs` `bash`
 
-<div class="break"></div>
-
-### Education
+### <ins>Education</ins>
 
 2011 - 2016 // **Eskisehir Osmangazi University** // Computer Engineering
 
-<div class="break"></div>
+### <ins>Personal Projects</ins>
 
-### Personal Projects
-
-|     |                                                                                     |                                                       |
-|:----|:------------------------------------------------------------------------------------|:------------------------------------------------------|
-| 1.  | [python mini projeler](https://github.com/ozcanyarimdunya/python_mini_projeler)     | : Simple projects I made with Python                  |
-| 2.  | [word document generator](https://github.com/ozcanyarimdunya/wdg)                   | : Word document generator from template               |
-| 3.  | [commander](https://github.com/ozcanyarimdunya/commander)                           | : A Django boilerplate project                        |
-| 4.  | [drf react nginx docker](https://github.com/ozcanyarimdunya/drf-react-nginx-docker) | : Django rest and react with nginx in docker          |
-| 5.  | [pyqt cpu](https://github.com/ozcanyarimdunya/pyqt-cpu)                             | : Simple app that show the cpu usage in the task bar. |
-| 6.  | [more ...](https://github.com/ozcanyarimdunya)                                      | : For more checkout my GitHub account                 |
-
-<div class="break"></div>
+|                                                                                   |                                                        |
+|:----------------------------------------------------------------------------------|:-------------------------------------------------------|
+| [⇢ python mini projects](https://github.com/ozcanyarimdunya/python_mini_projeler) | : Simple projects that I've made with Python.          |
+| [⇢ word document generator](https://github.com/ozcanyarimdunya/wdg)               | : Generate word document from template.                |
+| [⇢ commander](https://github.com/ozcanyarimdunya/commander)                       | : Create console application by using native argparse. |
+| [⇢ tabler](https://github.com/ozcanyarimdunya/tabler)                             | : Tabular data formatter for console application.      |
+| [⇢ pyqt cpu](https://github.com/ozcanyarimdunya/pyqt-cpu)                         | : Simple app that show the cpu usage in the task bar.  |
+| [⇢ ...](https://github.com/ozcanyarimdunya)                                       | : For more checkout my GitHub account.                 |
 
 © 2022 [ozcan.yarimdunya.com](https://ozcan.yarimdunya.com)
