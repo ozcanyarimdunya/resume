@@ -65,13 +65,14 @@ _Application/platform development_
 
 ### <ins>Personal Projects</ins>
 
-|                                                                                   |                                                        |
-|:----------------------------------------------------------------------------------|:-------------------------------------------------------|
-| [⇢ python mini projects](https://github.com/ozcanyarimdunya/python_mini_projeler) | : Simple projects that I've made with Python.          |
-| [⇢ word document generator](https://github.com/ozcanyarimdunya/wdg)               | : Generate word document from template.                |
-| [⇢ commander](https://github.com/ozcanyarimdunya/commander)                       | : Create console application by using native argparse. |
-| [⇢ tabler](https://github.com/ozcanyarimdunya/tabler)                             | : Tabular data formatter for console application.      |
-| [⇢ pyqt cpu](https://github.com/ozcanyarimdunya/pyqt-cpu)                         | : Simple app that show the cpu usage in the task bar.  |
-| [⇢ ...](https://github.com/ozcanyarimdunya)                                       | : For more checkout my GitHub account.                 |
+|                                                                                   |                                                         |
+|:----------------------------------------------------------------------------------|:--------------------------------------------------------|
+| [⇢ python mini projects](https://github.com/ozcanyarimdunya/python_mini_projeler) | : Projects that I've made with Python.                  |
+| [⇢ word document generator](https://github.com/ozcanyarimdunya/wdg)               | : Generates word document from template.                |
+| [⇢ commander](https://github.com/ozcanyarimdunya/commander)                       | : Creates console application by using native argparse. |
+| [⇢ tabler](https://github.com/ozcanyarimdunya/tabler)                             | : Tabular data formatter for console application.       |
+| [⇢ py3html](https://github.com/ozcanyarimdunya/py3html)                           | : Generates HTML code generator with Python.            |
+| [⇢ pyqt cpu](https://github.com/ozcanyarimdunya/pyqt-cpu)                         | : Shows the cpu usage in the task bar.                  |
+| [⇢ ...](https://github.com/ozcanyarimdunya)                                       | : For more checkout my GitHub account.                  |
 
 © 2022 [ozcan.yarimdunya.com](https://ozcan.yarimdunya.com)
