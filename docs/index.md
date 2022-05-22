@@ -71,7 +71,7 @@ _Application/platform development_
 | [⇢ word document generator](https://github.com/ozcanyarimdunya/wdg)               | : Generates word document from template.                |
 | [⇢ commander](https://github.com/ozcanyarimdunya/commander)                       | : Creates console application by using native argparse. |
 | [⇢ tabler](https://github.com/ozcanyarimdunya/tabler)                             | : Tabular data formatter for console application.       |
-| [⇢ py3html](https://github.com/ozcanyarimdunya/py3html)                           | : Generates HTML code generator with Python.            |
+| [⇢ py3html](https://github.com/ozcanyarimdunya/py3html)                           | : Generates HTML with Python.                           |
 | [⇢ pyqt cpu](https://github.com/ozcanyarimdunya/pyqt-cpu)                         | : Shows the cpu usage in the task bar.                  |
 | [⇢ ...](https://github.com/ozcanyarimdunya)                                       | : For more checkout my GitHub account.                  |
 
