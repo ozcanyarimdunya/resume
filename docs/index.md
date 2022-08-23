@@ -23,9 +23,9 @@ title: Özcan Yarımdünya
 
 #### Sahibinden.com - Big Data Admin & Python Developer
 
-09/2021 - present (8 months)
+09/2021 - present (11 months)
 
-_Big data tools operations and development_
+_Python development and Big data tools operations_
 
 `python` `sql` `bash` `bigdata`
 
