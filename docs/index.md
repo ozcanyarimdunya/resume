@@ -28,7 +28,10 @@ I am a simple Python Developer.
 - Responsibilities:
     - Develop and maintain tools using languages such as Python and Bash.
     - Collaborate with cross-functional teams to design and implement Big Data platform.
-    - Contributed to code reviews and helped improve the team's coding standards
+    - Contributed to code reviews and helped improve the team's coding standards.
+    - Worked on a project to automate site switching.
+    - Knowledge of big data tools and technologies.
+    - Utilized big data tools to improve the performance and scalability of our applications
 
 **Huawei Technologies**
 
@@ -42,7 +45,9 @@ I am a simple Python Developer.
 - Position: Software Developer
 - Dates: 12/2019 - 01/2021
 - Responsibilities:
-    - Application/platform development.
+    - Developed and maintained an analytics tool similar to Google Analytics, using Python, JavaScript, Flask, MongoDB,
+      and Elasticsearch
+    - Worked with cross-functional teams to design and implement new features and improvements to the tool
 
 **Huawei Technologies**
 
@@ -54,14 +59,14 @@ I am a simple Python Developer.
 ### <ins>Skills</ins>
 
 - Proficient in `Python`, `Shell Scripting` and `JavaScript`.
-- Experience with Git and version control.
+- Experience with Django and Flask.
 - Strong understanding of software development principles and best practices.
 
 ### <ins>Education</ins>
 
 - Bachelor of Science in Computer Science in Eskisehir Osmangazi University (2011 - 2016)
 
-### <ins>Personal Projects</ins>
+### <ins>Projects</ins>
 
 |                                                                                   |                                                         |
 |:----------------------------------------------------------------------------------|:--------------------------------------------------------|
