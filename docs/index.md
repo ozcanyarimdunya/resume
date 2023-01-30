@@ -32,6 +32,9 @@ I am a simple Python Developer.
     - Worked on a project to automate site switching.
     - Knowledge of big data tools and technologies.
     - Utilized big data tools to improve the performance and scalability of our applications
+- Technologies:
+    - Python, Flask, JavaScript, Shell Scripting
+    - Hadoop, Vertica, Clickhouse administration
 
 **Huawei Technologies**
 
@@ -39,6 +42,8 @@ I am a simple Python Developer.
 - Dates: 01/2021 - 09/2021
 - Responsibilities:
     - Huawei AppStore search optimization.
+- Technologies:
+    - Python, Django, Web Scraping, Shell Scripting
 
 **GTech**
 
@@ -48,6 +53,9 @@ I am a simple Python Developer.
     - Developed and maintained an analytics tool similar to Google Analytics, using Python, JavaScript, Flask, MongoDB,
       and Elasticsearch
     - Worked with cross-functional teams to design and implement new features and improvements to the tool
+- Technologies:
+    - Python, Flask, JavaScript, Shell Scripting
+    - Mongo, ElasticSearch
 
 **Huawei Technologies**
 
@@ -55,6 +63,9 @@ I am a simple Python Developer.
 - Dates: 04/2017 - 12/2019
 - Responsibilities:
     - Application/platform development.
+- Technologies:
+    - Python, Django, JavaScript, Shell Scripting
+    - PostgreSQL
 
 ### <ins>Skills</ins>
 
@@ -72,7 +83,7 @@ I am a simple Python Developer.
 |:----------------------------------------------------------------------------------|:--------------------------------------------------------|
 | [⇢ python mini projects](https://github.com/ozcanyarimdunya/python_mini_projeler) | : Projects that I've made with Python.                  |
 | [⇢ word document generator](https://github.com/ozcanyarimdunya/wdg)               | : Generates word document from template.                |
-| [⇢ commander](https://github.com/ozcanyarimdunya/commander)                       | : Creates console application by using native argparse. |
+| [⇢ commander](https://github.com/ozcanyarimdunya/commander_py)                    | : Creates console application by using native argparse. |
 | [⇢ tabler](https://github.com/ozcanyarimdunya/tabler)                             | : Tabular data formatter for console application.       |
 | [⇢ py3html](https://github.com/ozcanyarimdunya/py3html)                           | : Generates HTML code generator with Python.            |
 | [⇢ pyqt cpu](https://github.com/ozcanyarimdunya/pyqt-cpu)                         | : Shows the cpu usage in the task bar.                  |
