@@ -83,7 +83,7 @@ I am a simple Python Developer.
 |:----------------------------------------------------------------------------------|:--------------------------------------------------------|
 | [⇢ python mini projects](https://github.com/ozcanyarimdunya/python_mini_projeler) | : Projects that I've made with Python.                  |
 | [⇢ word document generator](https://github.com/ozcanyarimdunya/wdg)               | : Generates word document from template.                |
-| [⇢ commander](https://github.com/ozcanyarimdunya/commander_py)                    | : Creates console application by using native argparse. |
+| [⇢ argparge](https://github.com/ozcanyarimdunya/argparge)                         | : Creates console application by using native argparse. |
 | [⇢ tabler](https://github.com/ozcanyarimdunya/tabler)                             | : Tabular data formatter for console application.       |
 | [⇢ py3html](https://github.com/ozcanyarimdunya/py3html)                           | : Generates HTML code generator with Python.            |
 | [⇢ pyqt cpu](https://github.com/ozcanyarimdunya/pyqt-cpu)                         | : Shows the cpu usage in the task bar.                  |
