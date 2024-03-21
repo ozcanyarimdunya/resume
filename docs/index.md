@@ -83,4 +83,4 @@ I am a simple Python Developer.
 
 --- 
 
-© 2022 [ozcan.yarimdunya.com](https://ozcan.yarimdunya.com)
+© 2024 [ozcan.yarimdunya.com](https://ozcan.yarimdunya.com)
