@@ -175,7 +175,7 @@
                 </p>
               </div>
             </div>
-            <div class="text-pretty font-mono text-sm text-muted-foreground mt-auto flex">
+            <div class="text-pretty font-mono text-sm text-muted-foreground mb-auto flex">
               <div class="mt-2 flex flex-wrap gap-1">
                 <Badge
                     variant="secondary"
