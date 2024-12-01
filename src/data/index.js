@@ -1,11 +1,13 @@
 import {GithubIcon, LinkedinIcon} from "@/components/icons";
 
+const experience = new Date().getFullYear() - 2016;
+
 export default {
   name: "Özcan Yarımdünya",
   location: "İstanbul / Türkiye",
   locationLink: "https://www.google.com/maps/place/Istanbul",
   about: "Passionate Python Developer focused on creating efficient, scalable applications.",
-  summary: "As a Full Stack Engineer with over 8 years of experience, I specialize in building scalable, user-friendly tools and applications. My expertise spans software engineering, web development, and DevOps, with a strong focus on Python, Django, FastAPI, Vue.js, and Kubernetes. Currently, I work on enhancing Big Data platforms and automating processes, and I thrive in cross-functional team environments. I’m passionate about tackling new challenges, improving performance, and staying up-to-date with emerging technologies.",
+  summary: `As a Full Stack Engineer with over ${experience} years of experience, I specialize in building scalable, user-friendly tools and applications. My expertise spans software engineering, web development, and DevOps, with a strong focus on Python, Django, FastAPI, Vue.js, and Kubernetes. Currently, I work on enhancing Big Data platforms and automating processes, and I thrive in cross-functional team environments. I’m passionate about tackling new challenges, improving performance, and staying up-to-date with emerging technologies.`,
   avatarUrl: "https://avatars.githubusercontent.com/u/12237463?v=4",
   personalWebsiteUrl: "https://yarimdunya.com",
   contact: {
