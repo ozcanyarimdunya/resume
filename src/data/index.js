@@ -31,7 +31,7 @@ export default {
       badges: ["Hybrid"],
       title: "Senior Python Developer",
       year: "2021 - Present",
-      description: "Developing tools and automated processes for Big Data platforms, enhancing scalability and performance, while collaborating on cross-functional projects. Technologies: Python, Django, FastAPI, VueJS, Hadoop, Vertica, ClickHouse and Kubernetes.",
+      description: "Developing tools and automated processes for Big Data platforms. Technologies: Python, Django, FastAPI, VueJS, Hadoop, Vertica, ClickHouse and Kubernetes.",
     },
     {
       company: "Huawei Technologies",
@@ -47,7 +47,7 @@ export default {
       badges: ["Hybrid"],
       title: "Senior Software Developer",
       year: "2020 - 2021",
-      description: "Developed platforms for enriching and analyzing customer data similar to Google Analytics, collaborating on feature design and implementation. Technologies: Python, Flask, JavaScript, MongoDB, Elasticsearch, and Docker.",
+      description: "Developed platforms for enriching and analyzing customer data similar to Google Analytics. Technologies: Python, Flask, JavaScript, MongoDB, Elasticsearch, and Docker.",
     },
     {
       company: "Huawei Technologies",
@@ -55,7 +55,7 @@ export default {
       badges: [],
       title: "Software Developer",
       year: "2017-2020",
-      description: "Developed full-stack applications and AI models for network prediction and analysis, using Python for backend and JavaScript for frontend across desktop, web, and mobile platforms. Technologies: Python, Django, ReactJS, VueJS, Qt, React Native, PostgreSQL"
+      description: "Developed full-stack applications and AI models for network prediction and analysis. Technologies: Python, Django, ReactJS, VueJS, Qt, React Native, PostgreSQL"
     },
   ],
   education: [
