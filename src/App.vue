@@ -170,7 +170,7 @@
                 <div class="hidden font-mono text-xs underline print:flex print:text-[10px]">
                   {{ project.link?.label }}
                 </div>
-                <p class="text-muted-foreground font-mono text-xs print:text-[10px]">
+                <p class="text-muted-foreground font-mono text-xs print:text-[11px]">
                   {{ project.description }}
                 </p>
               </div>
@@ -179,7 +179,7 @@
               <div class="mt-2 flex flex-wrap gap-1">
                 <Badge
                     variant="secondary"
-                    class="px-1 py-0 text-[10px] print:px-1 print:py-0.5 print:text-[8px] print:leading-tight"
+                    class="px-1 py-0 text-[10px] print:px-1 print:py-0.5 print:text-[9px] print:leading-tight"
                     v-for="tag in project.techStack"
                     :key="tag"
                 >
