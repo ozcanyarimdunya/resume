@@ -107,7 +107,7 @@
               {{ work.title }}
             </h4>
           </div>
-          <div class="text-pretty font-mono text-muted-foreground mt-2 text-xs print:text-[10px]"><!-- CardContent -->
+          <div class="text-pretty font-mono text-muted-foreground mt-2 text-xs print:text-[11px]"><!-- CardContent -->
             {{ work.description }}
           </div>
         </div>
