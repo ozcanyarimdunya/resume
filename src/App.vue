@@ -14,7 +14,7 @@
                 :href="data.locationLink"
                 target="_blank"
             >
-              <GlobeIcon class="size-3"/>
+              <GlobeIcon class="size-3 print:hidden"/>
               {{ data.location }}
             </a>
           </p>
