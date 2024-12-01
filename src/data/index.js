@@ -56,7 +56,7 @@ export default {
       link: "https://www.huawei.com/",
       badges: [],
       title: "Software Developer",
-      year: "2017-2020",
+      year: "2017 - 2020",
       description: "Developed full-stack applications and AI models for network prediction and analysis. Technologies: Python, Django, ReactJS, VueJS, Qt, React Native, PostgreSQL"
     },
   ],
