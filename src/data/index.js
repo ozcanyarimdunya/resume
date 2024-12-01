@@ -106,7 +106,7 @@ export default {
         "Helm",
         "LDAP",
       ],
-      description: "Developed a web and CLI-based pastebin application using Python, Django, and Kubernetes. Features include paste sharing with expiration, custom URLs, login with LDAP, personal access tokens, paste history, search functionality, and built-in tools like a base64 converter, text diff, JSON formatter, and random password generator.",
+      description: "Developed a web pastebin application using Python, Django, and Kubernetes. Features include paste sharing with expiration, custom URLs, login with LDAP, personal access tokens, paste history, search functionality, and built-in tools like a base64 converter, text diff, JSON formatter, and random password generator.",
     },
     {
       title: "Mini Project with Python",
