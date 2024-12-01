@@ -1,4 +1,4 @@
-import {GithubIcon, LinkedinIcon} from "@/components/icons";
+import {GithubLogoIcon, LinkedinLogoIcon} from "@radix-icons/vue";
 
 const experience = new Date().getFullYear() - 2016;
 
@@ -17,12 +17,12 @@ export default {
       {
         name: "GitHub",
         url: "https://github.com/ozcanyarimdunya",
-        icon: GithubIcon,
+        icon: GithubLogoIcon,
       },
       {
         name: "LinkedIn",
         url: "https://www.linkedin.com/in/ozcanyarimdunya/",
-        icon: LinkedinIcon,
+        icon: LinkedinLogoIcon,
       },
     ],
   },
